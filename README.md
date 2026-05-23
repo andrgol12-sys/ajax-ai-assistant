@@ -49,15 +49,15 @@ AI-помощник для транспортной компании на баз
 
 ---
 
-## 📸 Screenshots
+## ## 📸 Screenshots
 
 ### Telegram Bot
 
-Telegram Bot
+![Telegram Bot](screenshots/telegram_bot_demo.png)
 
 ### Cursor Development
 
-Cursor
+![Cursor Development](screenshots/cursor_project.png)
 
 ---
 
